@@ -1,6 +1,6 @@
 # Agentic RAG PDF Chatbot (LangChain, Gemini & Streamlit)
 
-<div align="center">   <video src="recording.webm" controls muted autoplay loop width="700"></video> </div>
+<div align="center">   <video src="recording.mp4" controls muted autoplay loop width="700"></video> </div>
 
 This repository contains the code for a Streamlit web application that implements an **Agentic Retrieval-Augmented Generation (RAG)** system.
 
